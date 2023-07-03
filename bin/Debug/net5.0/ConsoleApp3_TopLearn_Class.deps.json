@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleApp3_TopLearn_Class/1.0.0": {
+        "runtime": {
+          "ConsoleApp3_TopLearn_Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp3_TopLearn_Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
